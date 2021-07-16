@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dentist-appointment-gkeo",
+  "private_key_id": "cdd8a601d9ae40092b759c498905c2da39e83d0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/nIvgJf4JcJqg\nOQkjYJCjUG2d7kHiXU6hJhsKK+QNzgffQz72lwr0FBxmZIY0dXFa1mREEyp+AGEQ\nasNaJSYTpHu+V80SHVSnLJ61l/XcNIbBbCyw+Uwpgu6xTGwzAlON0t8ibncSDFVZ\nDeczX1Ur2RyHBq91iQl20nl0G4btDsb+MqjGuagc9MFh+hsnT2xKzhcwxQodMINF\nfIh6deu0eXQ/gEc3dNPMj5BmcDcNbekuye9NXMYMc0G6e8DqdzI4qwx4rilpSM1w\nnNiuryxQKcVQqVgKgUQztGSuKmlrRVUwwtvO9ZW5kGRcJTzTp+Nxe+ALIZUoSWpt\nqhdlLwEDAgMBAAECggEALSKFilu4ruWQ7svwnJ47A9VGtOxyJY3AH1KYDPnQwvW0\nwgEXnENxB5STKgVk3YeKl5Cn1qdDG6IgOxtDAAF/KiJVKb2J50n0blqi2fi9J81R\nrs856cgXijG24xmy5QMXxnEVMYmez6gLFKqjOuUqbWU7hIztGL0adxxWEqUHT+CB\nj4qryOYoVHNeCtUXYyGd7FYGksDBIrgju5mBSerQ7w68H/haQsVkCzXw4QoBfB2c\n/eDqHditgwoCEH8fYKUiZ0i35cIqY3aJ2YSPgNf0cHlZfvhzY07VR5lQpvvgHQYB\n/G+xYtnUk+a/yxIoNKdqVtAOhm5GoiVptwK2Pih5vQKBgQD7Sr/n4CvTuvI8LHT3\n3P1FB27sh7SP000rTEP8VKExGclCXMvUzleOrLQKeHD9RD9FS86PBYUgBX7vw6Gx\ne6DPuoP7yIutjpTLCyz+lDU42Tnii8WjDwK08+YL7ASvis+txEeQLGqaR3hpdtA/\noqfYtUVZOvVSmfpcrKZlmWxSrQKBgQDDM45s1Poc36XL8MXmK4SW809U1arNB6jI\nFlHyN6fslEaw2ZFpWI/esIk+wXtZW53gjCFLDvD04C7ZH7etcqjdFXysATdZ36Vn\nIPNc8eHDodL9jboegQZ4696ghk6ifPfH1g3mfph9gJTwIM7HO8TQ3XSQ+HCQdK/z\nUmpUrSDIbwKBgEIzOgUrAEDCIiiKCbJ2jF5QC//R7FZrcwvyBoMGBIT75xJNggEo\n7tYOV0ve2N1Pyl9GDj+NU7nQ2NTvM7ye9gljeHuvJGTvh/FJm2vhvXehemddLQ68\n2Ji1HCiN39oi9n0vlS69FMRaCbW28DujbRZhAsj0CEbfe55IeXmQhoHtAoGAIFx+\nwzo30OufAAWFuZgDXkcuIsFdlKotaCaTJVXmyAj5Az6+pblh+KhJyJapDXJr5Rs2\nNcxfVCmKesKQX/f/WM/EIHv/Ii46rLNAxWrwY8+DPDfv4DjByvBHs1Mw3C1dosqw\n+UKJo1za1EiMH2mgQoREW/hkKP6/YNaL/EfLhI8CgYEA8hr3un9sYRvjMnYnKGkm\nqWfDmCBVFGlezYQ+iC6U+gNKrV6OZwFvpwX7y/ChA3yn8Kkr1V4FVgbcbu/sfZjl\ng1huGAamKy1g9J+NfNZmsLhs8qORrwU2bGHVg1rRJqN+mt8uyvDi70dNNJFUfxyG\n7cwjKYLo3qtIE/sRbGJXNvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "df-dentist-appt@dentist-appointment-gkeo.iam.gserviceaccount.com",
+  "client_id": "108850370317417748196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/df-dentist-appt%40dentist-appointment-gkeo.iam.gserviceaccount.com"
+}
