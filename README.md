@@ -70,11 +70,11 @@ node df-connecting-server
 
 ### Command Line Heroku deployment
 
+You must first have deployed your application locally, as explained in previous section, and verified it is working.
+
 Install [git](https://git-scm.com/downloads).
 
 Install [Heroku command line](https://devcenter.heroku.com/categories/command-line) and login to your Heroku account.
-
-Download this sample application code to a local folder, then go to that folder.
 
 If you do not yet have a local git repository, create one:</br>
 ```bash
