@@ -4,7 +4,7 @@ You can use the Dialogflow reference connection code to connect a Vonage Voice A
 
 ## About this reference connection code
 
-Dialogflow reference connection makes use of the [websockets feature](https://docs.nexmo.com/voice/voice-api/websockets) of Vonage Voice API. When a voice call is established, a Voice API application triggers a websocket connection to this Dialogflow reference connection and streams the audio to and from the voice call in real time.
+Dialogflow reference connection makes use of the [WebSockets feature](https://docs.nexmo.com/voice/voice-api/websockets) of Vonage Voice API. When a voice call is established, a Voice API application triggers a WebSocket connection to this Dialogflow reference connection and streams the audio to and from the voice call in real time.
 
 See https://github.com/nexmo-community/dialogflow-sample-voice-application for a **sample Voice API application** using this Dialogflow reference connection code to connect voice calls to a Google Dialogflow agent.
 
