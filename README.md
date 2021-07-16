@@ -35,6 +35,10 @@ click on the 3 vertical dots (under Actions), Create key, JSON, CREATE, save the
 that key file name (ending with .json) is the value, e.g. *mydfagent-vonage-05768e59b7c5.json*</br>
 we will use that value to set the parameter **GOOGLE_APPLICATION_CREDENTIALS** in the next sections.</br></br>
 
+## Enabling APIs on your Google project
+
+Using your Google Cloud Console, on your corresponding Google project, make sure that both the **Dialogflow API** and the **Cloud Natural Language API** are enabled.
+
 ## Running Dialogflow reference connection code
 
 You deploy the Dialogflow reference connection code in one of the following couple of ways.
